@@ -3,11 +3,11 @@ Your task for this challenge is to create a small todo app
 
 A todo is a task yet to be done; an item on a to-do list.
 A todo must have these properties
-    id
-    title
-    description
-    created time
-    is done
+- id
+- title
+- description
+- created time
+- is done
 
 ## Requirements
 The basic search engine should be capable of the following three operations.
