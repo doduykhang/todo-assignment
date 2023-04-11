@@ -10,7 +10,7 @@ A todo must have these properties
 - is done
 
 ## Requirements
-The basic search engine should be capable of the following three operations.
+The basic todo app should be capable these following operations.
 
 1. The app should be able to display the list to todo
 2. The app should be able to create a new todo
